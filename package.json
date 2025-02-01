@@ -1,4 +1,20 @@
-"scripts": {
-  "test": "echo \"Warning: No tests created yet.\""
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giftomos475/COMP2156.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giftomos475/COMP2156/issues"
+  },
+  "homepage": "https://github.com/Giftomos475/COMP2156#readme",
+  "description": ""
 }
-
